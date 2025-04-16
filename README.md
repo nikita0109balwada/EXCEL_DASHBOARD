@@ -46,7 +46,6 @@ Removed rows with missing key metrics (like Fuel Efficiency, Fleet Held, Passeng
 
 Fixed inconsistent data types
 
-https://github.com/user-attachments/assets/1a5b673a-27f4-4d05-b7aa-61e745f5389d
 
 
 
