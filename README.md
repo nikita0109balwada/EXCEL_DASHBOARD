@@ -31,12 +31,24 @@ Staff Strength
 
 
 
+
+
+https://github.com/user-attachments/assets/6884d84e-0fc9-4849-b326-b9c3f7b1102a
+
+
+https://github.com/user-attachments/assets/eadbae8b-88e8-472a-96f8-ee4dfec0de00
+
+
 🔧 Data Cleaning & Preprocessing Steps
 Performed using Excel formulas and manual processing:
 
 Removed rows with missing key metrics (like Fuel Efficiency, Fleet Held, Passenger Kilometres)
 
 Fixed inconsistent data types
+
+https://github.com/user-attachments/assets/1a5b673a-27f4-4d05-b7aa-61e745f5389d
+
+
 
 Renamed columns for readability (e.g., Passenger Kilometres → Passenger KM)
 
